@@ -1,0 +1,6 @@
+{
+  "name": "PSKProp",
+  "description": "Real-time HF propagation monitor and PSK Reporter visualization tool with Maidenhead grid locator, radius filtering, band conditions, and grayline terminator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
